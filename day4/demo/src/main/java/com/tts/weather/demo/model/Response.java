@@ -20,4 +20,5 @@ public class Response {
     private String id;
     private String name;
     private String cod;
+    private String zipCode;
 }
